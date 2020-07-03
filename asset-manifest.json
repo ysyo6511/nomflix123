@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ysyo6511/nomflix/static/js/main.aaa73f9f.chunk.js",
+    "main.js.map": "/ysyo6511/nomflix/static/js/main.aaa73f9f.chunk.js.map",
+    "runtime-main.js": "/ysyo6511/nomflix/static/js/runtime-main.9df3081e.js",
+    "runtime-main.js.map": "/ysyo6511/nomflix/static/js/runtime-main.9df3081e.js.map",
+    "static/js/2.f01fb39b.chunk.js": "/ysyo6511/nomflix/static/js/2.f01fb39b.chunk.js",
+    "static/js/2.f01fb39b.chunk.js.map": "/ysyo6511/nomflix/static/js/2.f01fb39b.chunk.js.map",
+    "index.html": "/ysyo6511/nomflix/index.html",
+    "precache-manifest.51c86eddf0977c92c066e7da3c04bcb8.js": "/ysyo6511/nomflix/precache-manifest.51c86eddf0977c92c066e7da3c04bcb8.js",
+    "service-worker.js": "/ysyo6511/nomflix/service-worker.js",
+    "static/js/2.f01fb39b.chunk.js.LICENSE.txt": "/ysyo6511/nomflix/static/js/2.f01fb39b.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.jpeg": "/ysyo6511/nomflix/static/media/noPosterSmall.bf8c73d2.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9df3081e.js",
+    "static/js/2.f01fb39b.chunk.js",
+    "static/js/main.aaa73f9f.chunk.js"
+  ]
+}
